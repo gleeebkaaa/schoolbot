@@ -1,4 +1,6 @@
 .env
+draft.json
+draft_*.json
 __pycache__/
 *.pyc
 .venv/
